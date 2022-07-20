@@ -37,6 +37,7 @@
     "@mantine/core": "^4.2.11",
     "@mantine/hooks": "^4.2.11",
     "@mantine/notifications": "^4.2.12",
+    "@mantine/prism": "^4.2.12",
     "@truffle/dashboard-message-bus": "^0.1.5",
     "@truffle/dashboard-message-bus-client": "^0.1.1",
     "@truffle/dashboard-message-bus-common": "^0.1.1",
