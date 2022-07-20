@@ -6568,13 +6568,6 @@
   dependencies:
     bignumber.js "7.2.1"
 
-"@types/ethereum-protocol@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@types/ethereum-protocol/-/ethereum-protocol-1.0.2.tgz#e765d4c6f4b5ebe906932bd20333e307c56a9bc7"
-  integrity sha512-Ri/hwt4UckZlF7eqhhAQcXsNvcgQmSJOKZteLco1/5NsRcneW/cJuQcrQNILN2Ohs9WUQjeGW3ZRRNqkEVMzuQ==
-  dependencies:
-    bignumber.js "7.2.1"
-
 "@types/ethereumjs-util@^5.2.0":
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/@types/ethereumjs-util/-/ethereumjs-util-5.2.0.tgz#f49fe8114789ec0871721392c09318c3eb56671b"
