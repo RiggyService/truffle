@@ -69,7 +69,6 @@ function _getOrCreateCompilationService(
   sourceFilePath: string
 ): TSNode.Service {
   if (!tsNode) {
-    // TODO: add error chaining support
     throw new TsNodeDependencyError(sourceFilePath);
   }
 
